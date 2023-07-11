@@ -1,0 +1,15 @@
+C:\Users\11159819432\Desktop\CSHARP\logReader\bin\Debug\net7.0\logReader.exe
+C:\Users\11159819432\Desktop\CSHARP\logReader\bin\Debug\net7.0\logReader.deps.json
+C:\Users\11159819432\Desktop\CSHARP\logReader\bin\Debug\net7.0\logReader.runtimeconfig.json
+C:\Users\11159819432\Desktop\CSHARP\logReader\bin\Debug\net7.0\logReader.dll
+C:\Users\11159819432\Desktop\CSHARP\logReader\bin\Debug\net7.0\logReader.pdb
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\logReader.csproj.AssemblyReference.cache
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\logReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\logReader.AssemblyInfoInputs.cache
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\logReader.AssemblyInfo.cs
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\logReader.csproj.CoreCompileInputs.cache
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\logReader.dll
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\refint\logReader.dll
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\logReader.pdb
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\logReader.genruntimeconfig.cache
+C:\Users\11159819432\Desktop\CSHARP\logReader\obj\Debug\net7.0\ref\logReader.dll
