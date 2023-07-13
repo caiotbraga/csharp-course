@@ -1,0 +1,15 @@
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\bin\Debug\net7.0\HashSetExercise.exe
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\bin\Debug\net7.0\HashSetExercise.deps.json
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\bin\Debug\net7.0\HashSetExercise.runtimeconfig.json
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\bin\Debug\net7.0\HashSetExercise.dll
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\bin\Debug\net7.0\HashSetExercise.pdb
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\HashSetExercise.csproj.AssemblyReference.cache
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\HashSetExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\HashSetExercise.AssemblyInfoInputs.cache
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\HashSetExercise.AssemblyInfo.cs
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\HashSetExercise.csproj.CoreCompileInputs.cache
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\HashSetExercise.dll
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\refint\HashSetExercise.dll
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\HashSetExercise.pdb
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\HashSetExercise.genruntimeconfig.cache
+C:\Users\11159819432\Desktop\CSHARP\HashSetExercise\obj\Debug\net7.0\ref\HashSetExercise.dll
