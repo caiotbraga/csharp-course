@@ -1,0 +1,15 @@
+C:\Users\RID - 4\source\repos\SQLexercise\bin\Debug\net6.0\SQLexercise.exe
+C:\Users\RID - 4\source\repos\SQLexercise\bin\Debug\net6.0\SQLexercise.deps.json
+C:\Users\RID - 4\source\repos\SQLexercise\bin\Debug\net6.0\SQLexercise.runtimeconfig.json
+C:\Users\RID - 4\source\repos\SQLexercise\bin\Debug\net6.0\SQLexercise.dll
+C:\Users\RID - 4\source\repos\SQLexercise\bin\Debug\net6.0\SQLexercise.pdb
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\SQLexercise.csproj.AssemblyReference.cache
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\SQLexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\SQLexercise.AssemblyInfoInputs.cache
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\SQLexercise.AssemblyInfo.cs
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\SQLexercise.csproj.CoreCompileInputs.cache
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\SQLexercise.dll
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\refint\SQLexercise.dll
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\SQLexercise.pdb
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\SQLexercise.genruntimeconfig.cache
+C:\Users\RID - 4\source\repos\SQLexercise\obj\Debug\net6.0\ref\SQLexercise.dll
